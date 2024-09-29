@@ -8,6 +8,7 @@ class Program
        int myVariable;
        myVariable = 3;
        const int MAXNUM = 30;
+       
 
     }
 }
